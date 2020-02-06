@@ -1,0 +1,11 @@
+Things to do:
+-  connect script and .csv waypoint file from github to the shiny app host
+- replace section end points with polylines of the survey sections
+- associate waypoints to each polyline for later metic calculations such as redds per km surveyed
+	- not sure we want to move any of the waypoints to the line or leave them at their unadjusted waypoint coordinates
+- jitter waypoints with same coordinates so each are visible as a single waypoint
+- add export map button to map
+- add in multiple tabs
+	- tab 1: map
+	- tab 2: table of mapped waypoints
+	- tab 3: analytics menu = metrics and figures to be exported 
