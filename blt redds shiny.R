@@ -1,7 +1,3 @@
-library(shiny)
-library(leaflet)
-library(RColorBrewer)
-library(dplyr)
 
 
 
